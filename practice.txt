@@ -1,2 +1,5 @@
 GitHub PR 실습
 branch를 만들어 파일을 수정하고 Pull Request를 생성한다.
+
+PR을 병합할 때 merge commit, squash, rebase 방식을 선택할 수 있다.
+PR 병합 방식 내용 추가
